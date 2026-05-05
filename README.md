@@ -32,7 +32,7 @@ Built an interactive Tableau dashboard analyzing crime data trends to support po
 - Trend analysis and geographic crime pattern visualization
 - Data storytelling for law enforcement stakeholders
 
-📂 [View Project](https://public.tableau.com/views/CareerSimulation35/TrendAnalysis)
+📂 [View Project](https://public.tableau.com/views/CrimeDataAnalysisDashboard_17779519771420/CrimeDataAnalysisDashboard)
 
 ---
 
@@ -81,6 +81,4 @@ Performed end-to-end sales data analysis across a Q4 (Oct–Dec) dataset, from d
 ---
 
 *Currently completing Data Analytics Bootcamp at Full Stack Academy — actively seeking entry-level Data Analyst or Data Operations roles.*
-
-
 
