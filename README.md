@@ -19,7 +19,7 @@ Analyzed employee salary bands, performance ratings, and bonus calculations for 
 - Relational database design with foreign key constraints
 - Created salary views, calculated performance-based bonuses, and classified employees into job roles based on experience
 
-📂 [View Project](https://github.com/GCkevin1833/Data-Analytics-portfolio/blob/main/Lesson%2018%20career%20simulation.sql)
+📂 [View Project](https://github.com/GCkevin1833/Data-Analytics-portfolio/blob/main/Employee%20Performance%20%26%20Salary%20Analysis)
 
 ---
 
@@ -46,7 +46,7 @@ Applied statistical hypothesis testing to evaluate whether park distribution acr
 
 **Libraries:** Pandas | NumPy | SciPy | Seaborn | Matplotlib
 
-📂 [View Project](https://github.com/GCkevin1833/Data-Analytics-portfolio/blob/main/Lesson%2047%20Practice%20Project.ipynb)
+📂 [View Project](https://github.com/GCkevin1833/Data-Analytics-portfolio/blob/main/Park%20Distribution%20%26%20Population%20Equity%20Analysis-Python)
 
 ---
 
@@ -62,7 +62,7 @@ Performed end-to-end sales data analysis across a Q4 (Oct–Dec) dataset, from d
 
 **Libraries:** Pandas | NumPy | Seaborn | Matplotlib | Plotly
 
-📂 [View Project](https://github.com/GCkevin1833/Data-Analytics-portfolio/blob/main/Career%20Simulation-Python(1).ipynb)
+📂 [View Project](https://github.com/GCkevin1833/Data-Analytics-portfolio/blob/main/Sales%20Performance%20%26%20Quarterly%20Analysis)
 
 ---
 
@@ -80,3 +80,5 @@ Performed end-to-end sales data analysis across a Q4 (Oct–Dec) dataset, from d
 ---
 
 *Currently completing Data Analytics Bootcamp at Full Stack Academy — actively seeking entry-level Data Analyst or Data Operations roles.*
+
+
