@@ -12,11 +12,12 @@ Marine Corps veteran and data analytics professional currently completing a Data
 ## Projects
 
 ### 🔹 Employee Performance & Salary Analysis — SQL
-Analyzed employee salary bands, performance ratings, and bonus calculations for an HR department using a relational database with 3 linked tables.
+Designed and built a relational database from scratch using raw CSV data, defining table structures, primary keys, and foreign key constraints across 3 linked tables. Analyzed employee salary bands, performance ratings, and bonus calculations for an HR department.
 
 **Skills demonstrated:**
+- Built a relational database from scratch from a raw CSV file in MySQL
+- Relational database design with primary keys, foreign keys, and 3 linked tables
 - Advanced SQL: window functions (RANK, PARTITION BY), CASE statements, subqueries, UNION ALL
-- Relational database design with foreign key constraints
 - Created salary views, calculated performance-based bonuses, and classified employees into job roles based on experience
 
 📂 [View Project](https://github.com/GCkevin1833/Data-Analytics-portfolio/blob/main/Employee%20Performance%20%26%20Salary%20Analysis)
@@ -80,5 +81,6 @@ Performed end-to-end sales data analysis across a Q4 (Oct–Dec) dataset, from d
 ---
 
 *Currently completing Data Analytics Bootcamp at Full Stack Academy — actively seeking entry-level Data Analyst or Data Operations roles.*
+
 
 
